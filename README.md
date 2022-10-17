@@ -1,7 +1,7 @@
 # Online_sales-RFM
 
 # Data Set Information:
-This Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
+This Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 12/01/2009 and 12/09/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
 
 # Attribute Information:
 InvoiceNo: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.\
